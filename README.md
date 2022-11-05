@@ -11,7 +11,7 @@ You can find the following things in the notebook:
 * Encoding the categorical values
 * Developing the model
 
-Youtube video available [here](https://github.com/aswintechguy/Machine-Learning-Projects/tree/master/Loan%20Prediction%20Analysis%20-%20Classification).
+Youtube video available [here](https://youtu.be/6kW8t_QKKDQ).
 
 #### Create environment
 
